@@ -1,2 +1,5 @@
 # landing-page
-landing page project for odin project foundations course
+Basic webpage - practice HTML and CSS flexbox.
+
+## GitHub demo
+<https://zimdo77.github.io/landing-page/>
